@@ -1,10 +1,6 @@
 
 # Socks Shop Microservices Deployment on Kubernetes with IaC
 
-<img src="Images/SocksShop_diagram.png" alt="Socks Shop Architecture">
-
-**PROJECT LIVE LINK:** [Capstone Project](http://capstone.ogdmerlin.xyz)
-
 ---
 
 ## Project Overview
@@ -64,7 +60,7 @@ We will utilize Terraform for infrastructure provisioning, GitHub Actions for CI
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/ogdmerlin/Socks-Shop
+   git clone https://github.com/microservices-demo/microservices-demo/tree/master
    cd Socks-Shop/terraform
    ```
 
